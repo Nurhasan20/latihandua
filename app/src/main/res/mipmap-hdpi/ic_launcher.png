@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <item name="android.hardware.camera2.CameraAccessException CameraAccessException(int) 0">
+    <annotation name="androidx.annotation.IntDef">
+      <val name="value" val="{android.hardware.camera2.CameraAccessException.CAMERA_IN_USE, android.hardware.camera2.CameraAccessException.MAX_CAMERAS_IN_USE, android.hardware.camera2.CameraAccessException.CAMERA_DISABLED, android.hardware.camera2.CameraAccessException.CAMERA_DISCONNECTED, android.hardware.camera2.CameraAccessException.CAMERA_ERROR}" />
+    </annotation>
+  </item>
+  <item name="android.hardware.camera2.CameraAccessException CameraAccessException(int, java.lang.String) 0">
+    <annotation name="androidx.annotation.IntDef">
+      <val name="value" val="{android.hardware.camera2.CameraAccessException.CAMERA_IN_USE, android.hardware.camera2.CameraAccessException.MAX_CAMERAS_IN_USE, android.hardware.camera2.CameraAccessException.CAMERA_DISABLED, android.hardware.camera2.CameraAccessException.CAMERA_DISCONNECTED, android.hardware.camera2.CameraAccessException.CAMERA_ERROR}" />
+    </annotation>
+  </item>
+  <item name="android.hardware.camera2.CameraAccessException CameraAccessException(int, java.lang.String, java.lang.Throwable) 0">
+    <annotation name="androidx.annotation.IntDef">
+      <val name="value" val="{android.hardware.camera2.CameraAccessException.CAMERA_IN_USE, android.hardware.camera2.CameraAccessException.MAX_CAMERAS_IN_USE, android.hardware.camera2.CameraAccessException.CAMERA_DISABLED, android.hardware.camera2.CameraAccessException.CAMERA_DISCONNECTED, android.hardware.camera2.CameraAccessException.CAMERA_ERROR}" />
+    </annotation>
+  </item>
+  <item name="android.hardware.camera2.CameraAccessException CameraAccessException(int, java.lang.Throwable) 0">
+    <annotation name="androidx.annotation.IntDef">
+      <val name="value" val="{android.hardware.camera2.CameraAccessException.CAMERA_IN_USE, android.hardware.camera2.CameraAccessException.MAX_CAMERAS_IN_USE, android.hardware.camera2.CameraAccessException.CAMERA_DISABLED, android.hardware.camera2.CameraAccessException.CAMERA_DISCONNECTED, android.hardware.camera2.CameraAccessException.CAMERA_ERROR}" />
+    </annotation>
+  </item>
+  <item name="android.hardware.camera2.CameraAccessException int getReason()">
+    <annotation name="androidx.annotation.IntDef">
+      <val name="value" val="{android.hardware.camera2.CameraAccessException.CAMERA_IN_USE, android.hardware.camera2.CameraAccessException.MAX_CAMERAS_IN_USE, android.hardware.camera2.CameraAccessException.CAMERA_DISABLED, android.hardware.camera2.CameraAccessException.CAMERA_DISCONNECTED, android.hardware.camera2.CameraAccessException.CAMERA_ERROR}" />
+    </annotation>
+  </item>
+  <item name="android.hardware.camera2.CameraCharacteristics android.hardware.camera2.params.RecommendedStreamConfigurationMap getRecommendedStreamConfigurationMap(int) 0">
+    <annotation name="androidx.annotation.In
